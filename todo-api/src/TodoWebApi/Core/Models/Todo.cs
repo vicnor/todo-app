@@ -9,8 +9,6 @@ namespace TodoWebApi.Core.Models
         public DateTime CompletedOn { get; set; }
         
         public string Title { get; set; }
-        
-        public bool Completed { get; set; }
 
     }
 }
